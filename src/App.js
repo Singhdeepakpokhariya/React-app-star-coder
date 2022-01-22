@@ -10,7 +10,7 @@ import Navbar from "./Component/Navbar"
 import Footer from "./Component/Footer"
 import { Route} from "react-router-dom"
 import { Routes } from "react-router-dom"
-import { Redirect } from "react-router-dom"
+
 
 const App = () => {
   return (
